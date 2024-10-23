@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjercicioEvaluable1.3</string>
+    <string name="titulo">Programación Multimedia</string>
+    <string name="boton1">Abrir vista 1</string>
+    <string name="boton2">Abrir vista 2</string>
+    <string name="boton3">Abrir vista 3</string>
+</resources>
